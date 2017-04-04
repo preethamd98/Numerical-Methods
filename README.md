@@ -1,2 +1,2 @@
 # Numerical-Methods
-Contains free numerical methods written in matlab
+Contains bug free numerical methods written in matlab
