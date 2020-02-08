@@ -1,0 +1,3 @@
+function[I]=trap(a,b,f(x))
+I=((b-a)/2)*(f(a)+f(b))
+end
